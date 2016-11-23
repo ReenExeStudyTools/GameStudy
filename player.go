@@ -1,5 +1,5 @@
 package player
 
-func player() uint64 {
-	return 1
+func player() [1]int {
+	return [1]int{5}
 }
