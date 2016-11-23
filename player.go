@@ -1,5 +1,5 @@
 package player
 
-func player() [1]int {
-	return [1]int{5}
+func player() [4]int {
+	return [4]int{5, 5, 5, 1 << 31}
 }
